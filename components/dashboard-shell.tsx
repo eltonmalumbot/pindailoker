@@ -30,7 +30,7 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
           <span className="brand-mark">
             <BriefcaseBusiness size={21} />
           </span>
-          <span>Lamarin</span>
+          <span>PindaiLoker</span>
         </Link>
         <nav className="sidebar-nav" aria-label="Navigasi dashboard">
           <span className="nav-caption">MENU UTAMA</span>
@@ -70,7 +70,7 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
             <span className="brand-mark">
               <BriefcaseBusiness size={20} />
             </span>
-            <span>Lamarin</span>
+            <span>PindaiLoker</span>
           </Link>
           <div className="header-search">
             <Search size={18} />
