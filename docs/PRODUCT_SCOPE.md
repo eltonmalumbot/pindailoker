@@ -1,4 +1,4 @@
-# Ruang Lingkup Produk Lamarin
+# Ruang Lingkup Produk PindaiLoker
 
 ## Target pengguna
 
@@ -9,7 +9,7 @@ Pencari kerja Indonesia, terutama fresh graduate, pekerja muda, dan pengguna yan
 1. Pengguna membuat akun.
 2. Pengguna menambahkan atau memilih lowongan.
 3. Pengguna mengunggah resume yang sudah dimiliki.
-4. Lamarin membandingkan resume dengan persyaratan lowongan.
+4. PindaiLoker membandingkan resume dengan persyaratan lowongan.
 5. Pengguna meninjau saran dan membuat versi resume yang lebih sesuai.
 6. Pengguna menyimpan lowongan ke dashboard lamaran.
 7. Pengguna memindahkan kartu sesuai perkembangan proses seleksi.
