@@ -36,11 +36,11 @@ export default function Home() {
   return (
     <main className="landing">
       <header className="site-header container">
-        <Link href="/" className="brand" aria-label="Lamarin beranda">
+        <Link href="/" className="brand" aria-label="PindaiLoker beranda">
           <span className="brand-mark">
             <BriefcaseBusiness size={22} strokeWidth={2.4} />
           </span>
-          <span>Lamarin</span>
+          <span>PindaiLoker</span>
         </Link>
         <nav className="desktop-nav" aria-label="Navigasi utama">
           <a href="#fitur">Fitur</a>
@@ -89,7 +89,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="hero-visual" aria-label="Contoh dashboard Lamarin">
+        <div className="hero-visual" aria-label="Contoh dashboard PindaiLoker">
           <div className="glow glow-one" />
           <div className="glow glow-two" />
           <div className="preview-window">
@@ -237,7 +237,7 @@ export default function Home() {
             <span className="section-kicker">Privasi sejak awal</span>
             <h2>Resume dan data kariermu bukan untuk dibagikan sembarangan.</h2>
             <p>
-              Lamarin dirancang agar dokumen tetap privat dan hanya dapat
+              PindaiLoker dirancang agar dokumen tetap privat dan hanya dapat
               diakses oleh pemilik akun.
             </p>
           </div>
@@ -252,10 +252,10 @@ export default function Home() {
           <span className="brand-mark">
             <BriefcaseBusiness size={20} />
           </span>
-          <span>Lamarin</span>
+          <span>PindaiLoker</span>
         </Link>
         <p>Temukan kesempatan. Siapkan diri. Lacak perjalananmu.</p>
-        <span>© 2026 Lamarin</span>
+        <span>© 2026 PindaiLoker</span>
       </footer>
     </main>
   );
