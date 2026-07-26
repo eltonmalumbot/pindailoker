@@ -7,6 +7,7 @@ import {
   BriefcaseBusiness,
   FileText,
   LayoutDashboard,
+  LogOut,
   Search,
   Settings,
   UserRound,
@@ -53,6 +54,10 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
           <Link href="/dashboard/profil" className="sidebar-link">
             <Settings size={19} />
             <span>Pengaturan</span>
+          </Link>
+          <Link href="/auth/keluar" className="sidebar-link">
+            <LogOut size={19} />
+            <span>Keluar</span>
           </Link>
           <div className="sidebar-profile">
             <span className="avatar">AM</span>
