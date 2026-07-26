@@ -7,7 +7,9 @@ export default function ProfilPage() {
         <div>
           <span className="page-kicker">AKUN DAN PREFERENSI</span>
           <h1>Profil Saya</h1>
-          <p>Informasi ini membantu Lamarin memberikan rekomendasi yang sesuai.</p>
+          <p>
+            Informasi ini membantu PindaiLoker memberikan rekomendasi yang sesuai.
+          </p>
         </div>
         <button className="button button-primary">
           <Check size={17} /> Simpan perubahan
