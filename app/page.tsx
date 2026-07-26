@@ -48,10 +48,10 @@ export default function Home() {
           <a href="#keamanan">Keamanan</a>
         </nav>
         <div className="header-actions">
-          <Link href="/dashboard" className="button button-ghost">
+          <Link href="/auth/masuk" className="button button-ghost">
             Masuk
           </Link>
-          <Link href="/dashboard" className="button button-primary">
+          <Link href="/auth/daftar" className="button button-primary">
             Mulai gratis
           </Link>
         </div>
