@@ -1,6 +1,6 @@
-# Lamarin
+# PindaiLoker
 
-Lamarin adalah platform untuk membantu pencari kerja Indonesia menemukan lowongan, menyesuaikan resume agar lebih ramah ATS, dan memantau proses lamaran melalui dashboard bergaya Kanban.
+PindaiLoker adalah platform untuk membantu pencari kerja Indonesia menemukan lowongan, menyesuaikan resume agar lebih ramah ATS, dan memantau proses lamaran melalui dashboard bergaya Kanban.
 
 ## Tujuan versi awal
 
