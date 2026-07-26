@@ -70,6 +70,10 @@ export default function Home() {
             Temukan lowongan, sesuaikan resume agar lebih ramah ATS, dan pantau
             seluruh proses lamaran—semuanya dalam satu tempat.
           </p>
+          <p className="hero-challenge">
+            Yang lain sibuk mengaku canggih.{" "}
+            <strong>Kami sibuk membuatnya benar-benar berguna.</strong>
+          </p>
           <div className="hero-actions">
             <Link href="/dashboard" className="button button-primary button-lg">
               Coba tampilan demo
@@ -203,6 +207,17 @@ export default function Home() {
               </article>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="challenge-section container">
+        <div className="challenge-card">
+          <span className="challenge-label">Buktikan, bukan sekadar katakan</span>
+          <h2>Boleh terlihat pintar. Tapi apakah benar-benar bekerja?</h2>
+          <p>
+            PindaiLoker dibangun untuk menghasilkan progres, bukan sekadar
+            impresi.
+          </p>
         </div>
       </section>
 
