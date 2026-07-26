@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Lamarin — Lamaran kerja lebih terarah",
+  title: "PindaiLoker — Lamaran kerja lebih terarah",
   description:
     "Temukan lowongan, sesuaikan resume ramah ATS, dan pantau setiap lamaran dalam satu tempat.",
 };
